@@ -1,7 +1,3 @@
-Welcome to Practical JavaScript!
-============================
+Todo List App
 
-This is the finished code for Version 9 of the
-application for Practical JavaScript.
-
-For more details, visit practicaljavascript.net.
+This app uses a single HTML file and a single Javascript file.  Users may add items to the list, check/uncheck added items, edit items, and delete items.
